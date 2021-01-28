@@ -22,7 +22,7 @@ public class AppTest
      * Rigorous Failing Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithFalse()
     {
         assertTrue( false );
     }
